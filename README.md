@@ -1,6 +1,6 @@
 ## Projeto de Análise de Dados - Marketplace de Bicicletas
 
-Este projeto foi desenvolvido como parte de um processo seletivo, onde tive o desafio de explorar um conjunto de dados de um marketplace de bicicletas utilizando a ferramenta Power BI. O desafio tinha prazo de entrega de 1 dia e não havia demandas específicas.
+Este projeto foi desenvolvido como parte de um processo seletivo, tive o desafio de explorar um conjunto de dados de um marketplace de bicicletas utilizando a ferramenta Power BI. O desafio estipulou prazo de entrega de 1 dia e não havia demandas específicas.
 
 ### Descrição do Projeto
 
@@ -9,7 +9,7 @@ O conjunto de dados fornecido continha informações sobre vendas, produtos, cli
 ### Insights Extraídos
 
 **Considerações sobre os dados:**
-- Identifiquei uma quantidade significativa de dados sem identificação única do cliente ou do revendedor, o que pode indicar problemas de anonimização ou inconsistências na coleta dos dados.
+- Identifiquei uma quantidade significativa de dados sem identificação única do cliente ou do revendedor, o que pode indicar anonimização ou inconsistências na coleta dos dados.
 
 **Considerações sobre os produtos:**
 - As vendas de bicicletas representam cerca de 90% do faturamento total.
